@@ -1,5 +1,13 @@
+![image](https://github.com/user-attachments/assets/4d7be9e3-ab84-417c-9e17-37af6761ea06)
+
+
 # Netflix-Recommendation-Engine
 🎬 Netflix Recommendation Engine This project builds a movie recommendation system using machine learning techniques, analyzing user ratings and preferences to suggest relevant movies.
+
+What are Recommender Systems?
+Recommender systems are algorithms designed to suggest relevant items to users. These systems are used in various domains such as e-commerce, streaming services, and social media. They enhance user experience by filtering vast amounts of information to deliver personalized content.
+![image](https://github.com/user-attachments/assets/438c2a06-4085-45f2-9736-9e5cc53ee532)
+
 
 🔍 Project Overview
 The recommendation engine processes Netflix user rating data to develop a personalized movie suggestion system. The dataset includes customer IDs, movie ratings, and additional metadata.
