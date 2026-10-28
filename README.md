@@ -1,4 +1,6 @@
-# Netflix Ratings Recommendation Experiments
+# Cinema Discovery & Recommendation Experiments
+
+[**Launch live demo →**](https://netflix-recommendation-engine-06.streamlit.app/) · [Deployment guide](DEPLOYMENT.md)
 
 ## Interactive Streamlit app
 
@@ -11,7 +13,7 @@ python -m streamlit run streamlit_app/app.py
 
 This is title-text similarity using the included catalog, not the notebook SVD model; the original ratings data is absent.
 
-See [DEPLOYMENT.md](DEPLOYMENT.md) for Community Cloud setup, validation coverage, and runtime requirements. A live deployment is not yet confirmed.
+See [DEPLOYMENT.md](DEPLOYMENT.md) for Community Cloud setup, validation coverage, and runtime requirements. Live app: https://netflix-recommendation-engine-06.streamlit.app/
 
 
 A recommendation notebook using Netflix ratings and Surprise's SVD model.
