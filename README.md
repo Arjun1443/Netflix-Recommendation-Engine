@@ -1,5 +1,19 @@
 # Netflix Ratings Recommendation Experiments
 
+## Interactive Streamlit app
+
+A companion application is available in [streamlit_app/app.py](streamlit_app/app.py).
+
+```bash
+python -m pip install -r streamlit_app/requirements.txt
+python -m streamlit run streamlit_app/app.py
+```
+
+This is title-text similarity using the included catalog, not the notebook SVD model; the original ratings data is absent.
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for Community Cloud setup, validation coverage, and runtime requirements. A live deployment is not yet confirmed.
+
+
 A recommendation notebook using Netflix ratings and Surprise's SVD model.
 
 ## Why this project matters
